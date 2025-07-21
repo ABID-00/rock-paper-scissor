@@ -1,1 +1,1 @@
-# patthar-panna-kaichi
+# rock-paper-scissor
